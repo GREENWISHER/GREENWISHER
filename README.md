@@ -7,7 +7,7 @@
 - 📫 How to reach me ->
 - You can always mail me on gaurav14112005@gmail.com
 
-##Have a nice Day
+## Have a nice Day
 
 <!---
 GREENWISHER/GREENWISHER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
