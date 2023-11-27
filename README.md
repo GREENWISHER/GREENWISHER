@@ -1,4 +1,4 @@
-# Student
+# Student :)
 
 - 👋 Hi, I’m @GREENWISHER or Gaurav K. Prasad
 - 👀 I’m interested in learning AI
